@@ -1,0 +1,60 @@
+		body{
+			background-color:#f2f7ff;
+			}
+			
+		p	{
+			color:#0b3585;
+			font-family:Arial;
+			}
+			
+		img	{
+			border-style: solid;
+			border-width: 10px;
+			border-color: #0b3585;
+			text-align: center;
+			}
+		
+		h1	{
+			}
+			
+		li	{
+			color:#0b3585;
+			font-family:Arial;
+			margin-bottom: 5px;
+			margin-top: 5px;
+			}
+		#Aerutamine	{
+					color:#1959d1;
+					font-family:Impact, fantasy;
+					text-align:center;
+					border-bottom-style: solid;
+		}
+		
+		#AerTekst {
+				  text-align: justify;
+				  width: 75%;
+		}
+		
+		#Foto	{
+				width:50%;
+				height:50%;
+		}
+		
+		#TeineTekst	{
+					position:relative; 
+					left:850px; 
+					bottom:400px; 
+					width:600px;
+		}
+		
+		#Heading	{
+					color:#1959d1; 
+					font-family:Arial;
+		}
+		
+		#list	{
+				border-style: dotted;
+				margin-right: 400px;
+		}
+		
+		
